@@ -11,7 +11,7 @@ struct HomeScreen: View {
     var body: some View {
         VStack {
             Button("Başla"){
-                
+                print("Bitti")
             }
         }
     }
