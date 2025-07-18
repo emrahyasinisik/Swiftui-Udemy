@@ -11,7 +11,7 @@ import SwiftUI
 struct iOS_UdemyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeScreen()
         }
     }
 }
